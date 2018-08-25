@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\user\desktop\оаип\lab11\lab_11\lab_11\source.cpp(40): warning C4474: "fscanf_s" : для строки формата передано слишком много аргументов
+  c:\users\user\desktop\оаип\lab11\lab_11\lab_11\source.cpp(40): note: заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+  lab_11.vcxproj -> C:\Users\User\Desktop\ОАиП\lab11\lab_11\Debug\lab_11.exe
+  lab_11.vcxproj -> C:\Users\User\Desktop\ОАиП\lab11\lab_11\Debug\lab_11.pdb (Partial PDB)
